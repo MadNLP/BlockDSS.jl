@@ -1,4 +1,4 @@
-module BlockStructuredSolvers
+module BlockDSS
 
 # Import
 import LinearAlgebra: I

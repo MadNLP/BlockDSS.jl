@@ -1,6 +1,6 @@
 using Test
 using Random
-using BlockStructuredSolvers
+using BlockDSS
 using SparseArrays
 using LinearAlgebra
 

@@ -3,7 +3,7 @@ using CUDA
 using AMDGPU
 using Random
 using CUDSS
-using BlockStructuredSolvers
+using BlockDSS
 
 import Pkg
 include("utils.jl")
